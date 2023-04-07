@@ -1,7 +1,6 @@
 # views.py
 import pickle
 from django.shortcuts import render
-from sklearn.linear_model import LogisticRegression
 import joblib
 
 # # Load the model
